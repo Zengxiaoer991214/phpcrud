@@ -1,0 +1,10 @@
+database:
+  "阿里云"
+user:
+  url:
+    "aaaaaaaaaa.mysql.cn-chengdu.rds.aliyuncs.com"
+  username:
+    "zengrui"
+  password:
+    "991214Lilin"
+
